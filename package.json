@@ -1,0 +1,25 @@
+{
+  "name": "node-onesignal-backend",
+  "version": "1.0.0",
+  "description": "Node.js + OneSignal demo for push notifications backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reg0/node-onesignal-backend.git"
+  },
+  "keywords": [
+    "node",
+    "onesignal",
+    "pushnotifications",
+    "javascript"
+  ],
+  "author": "Kamil Mikolajczyk",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/reg0/node-onesignal-backend/issues"
+  },
+  "homepage": "https://github.com/reg0/node-onesignal-backend#readme"
+}
