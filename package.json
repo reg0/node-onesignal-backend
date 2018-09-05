@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/reg0/node-onesignal-backend/issues"
   },
-  "homepage": "https://github.com/reg0/node-onesignal-backend#readme"
+  "homepage": "https://github.com/reg0/node-onesignal-backend#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
