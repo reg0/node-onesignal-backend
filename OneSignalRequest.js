@@ -86,4 +86,7 @@ class OneSignalRequest {
     }
 }
 
-module.exports = {OneSignalRequest};
+const API_KEY = "ZTZmMjFkMzUt..........................ZkOTVjODgz";
+const APP_ID = "3120....-....-....-....-........2e67";
+
+module.exports = {OneSignalRequest, API_KEY, APP_ID};
